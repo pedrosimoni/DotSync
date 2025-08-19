@@ -1,0 +1,21 @@
+{
+    "srcPaths": [
+        "~/repos/dwm-flexipatch/patches.h",
+        "~/repos/dwm-flexipatch/config.h",
+        "~/.xinitrc",
+        "~/.dwm/autostart.sh",
+        "~/.config/alacritty",
+        "~/.config/Code/User/keybindings.json",
+        "~/.config/Code/User/settings.json",
+        "~/.config/dunst",
+        "~/.config/kanata",
+        "~/.config/picom",
+        "~/.config/redshift",
+        "~/.config/rofi",
+        "~/.config/status_bar",
+        "~/.config/sxhkd",
+        "~/.config/zathura"
+    ],
+    "dstPath": "~/bag/pc/personal/.config",
+    "repoPath": "~/bag"
+}
