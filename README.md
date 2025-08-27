@@ -58,6 +58,6 @@ go run main.go
 The program will back up your files and commit the changes with a timestamp. Or you could set up a cron job to automate it even further, this is what I'm planning on doing.
 
 ## Future Improvements
+* Add `--config` flag to add paths.
 * Add a `--push` flag to push the commit to a remote.
 * Implement smarter syncing to only copy changed files.
-* Build a test suite with unit and integration tests.
